@@ -20,13 +20,14 @@ footer, header, nav, section, audio, video {
 
 a {
   text-decoration: none;
+  color: #F841AC;
 }
 
 body { 
   color: #242424;
   margin: 0 auto;
-  background: #ccc;
-  font-family: 'Amethysta', serif;
+  background: #EFF6E4;
+  font-family: Lucida, serif;
   font-size: 18px;
   line-height: 24px;
   width: 752px;
@@ -38,12 +39,12 @@ section#main {
   background: #fefefe;
   width: 712px;
   padding: 10px 20px;
-  -webkit-box-shadow: 0 0 35px 20px #AAA;
-  -moz-box-shadow: 0 0 35px 20px #AAA;
-  box-shadow: 0 0 35px 20px #AAA;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  border-radius: 5px;
+  border:  5px dotted #729E34;
+  -webkit-box-shadow: inset -3px 0 3px 0px #ccc;
+  -moz-box-shadow: inset -3px 0 3px 0px #ccc;
+  box-shadow: inset -3px 0 3px 0px #ccc;
+  -moz-border-radius: 10px 80px 10px 10px;
+  border-radius: 10px 80px 10px 10px;
 }
 
 h1 {
@@ -57,8 +58,8 @@ h2 {
 }
 
 h3 {
-	font-size: 24px;
-	line-height: 32px;
+  font-size: 24px;
+  line-height: 32px;
   font-weight: normal;
   margin: 0.5em 0;
   padding-top: 10px;
@@ -76,23 +77,28 @@ img.right {
 }
 
 body > header {
-  padding: 0 20px 1em 20px;
-  width: 712px;
+  padding: 0 20px 1em 5px;
+  width: 700px;
 }
 
 header h1, header h2 {
   display: inline;
-  font-family: 'Kreon', serif;
+  font-family: 'Fredericka the Great', sans-serif;
   font-weight: normal;
   padding-right: 10px;
 }
 
 header h1 a {
-    color: #343434;
+      color: #F841AC;
+      font-size: 1.2em;
 }
 
 header h2 {
-    color: #676767;
+    font-family: 'Coming Soon', serif;
+    color: #729E34;
+    text-shadow: -1px -1px 0px hsla(0%, 0%, 80, .5);
+    font-weight: normal;
+    font-size: 1em;
 }
 
 nav#archive {
@@ -131,6 +137,7 @@ nav ul.navigation li {
   font-size: 32px;
   line-height: 36px;
   margin-bottom: .2em;
+  color: #F841AC;
 }
 
 #main p {
@@ -160,7 +167,7 @@ footer {
 }
 
 body > footer {
-  padding: 1em 20px 1em 20px;
+  padding: 1em 20px 1em 0px;
   width: 712px;
   margin: 0;
 }
@@ -168,7 +175,7 @@ body > footer {
 #main .vcard {
   border-top: 1px #dedede solid;
   padding: 10px 0;
-  margin: 1em 0 0 0;
+  margin: 1em 0 1em 0;
   clear: both;
 }
 
