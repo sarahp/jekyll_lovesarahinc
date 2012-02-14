@@ -10,13 +10,6 @@ task :server do
   jekyll '--server --auto'
 end
 
-desc 'Build and deploy'
-task :publish => :build do
-  bucket = 'www.mikeyp.net'
-  puts "Publishing site to bucket #{bucket}"
-  sh 'ruby _scripts/aws_cf_sync.rb _site/ ' + bucket
-end
-
 desc 'create new post or bit. args: title, future (# of days)'
 # rake new type=(bit|post) future=0 title="New post title goes here" slug="slug-override-title"
 task :new do
