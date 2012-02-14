@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e5da090-9ccc-4a29-a003-0dd4ed8e0fe4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_scripts/aws_cf_invalidate.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_scripts/aws_cf_sync.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_scripts/s3.config" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
-    </list>
+    <list default="true" id="6e5da090-9ccc-4a29-a003-0dd4ed8e0fe4" name="Default" comment="" />
     <ignored path="sarahp.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,7 +44,7 @@
       <file leaf-file-name="Rakefile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Rakefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="3" selection-start="175" selection-end="175" vertical-scroll-proportion="0.29038113">
+            <state line="16" column="116" selection-start="389" selection-end="389" vertical-scroll-proportion="0.11615245">
               <folding />
             </state>
           </provider>
@@ -405,7 +400,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Rakefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="175" selection-end="175" vertical-scroll-proportion="0.29038113">
+        <state line="16" column="116" selection-start="389" selection-end="389" vertical-scroll-proportion="0.11615245">
           <folding />
         </state>
       </provider>
