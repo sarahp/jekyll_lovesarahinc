@@ -36,15 +36,19 @@ body {
 }
 
 section#main {
-  background: #fefefe;
+  background: # ;
   width: 712px;
-  padding: 10px 20px;
   border:  5px dotted #729E34;
   -webkit-box-shadow: inset -3px 0 3px 0px #ccc;
   -moz-box-shadow: inset -3px 0 3px 0px #ccc;
   box-shadow: inset -3px 0 3px 0px #ccc;
   -moz-border-radius: 10px 80px 10px 10px;
   border-radius: 10px 80px 10px 10px;
+}
+section#main-inner {
+  background: none repeat scroll 0 0 #FEFEFE;
+  border-radius: 10px 80px 10px 10px;
+  padding: 10px 20px;
 }
 
 h1 {
@@ -164,6 +168,7 @@ article.list time {
 footer {
   margin: 1em 0;
   font-size: 16px;
+  
 }
 
 body > footer {

@@ -18,9 +18,12 @@
     <h2>{{ site.slogan }}</h1>
   </header>
   <section id="main">
-    {{ content }}    
+    <section id="main-inner">
+      {{ content }}    
+    </section>
   </section>
   <footer>
+    {% include vcard.html %}
     &copy; 2005-{{ site.time | date:"%Y" }} {{ site.author }}
   </footer>
   {% include google_analytics.html %}
