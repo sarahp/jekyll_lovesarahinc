@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: "Where does it all go?"
+date: 2012-02-17 14:12:31 -0800
+tags: renewal
+      recycle
+---
+Stuff. Moutains of it broken, smelly, with Seagulls circling to boot. Nothing like a trip to the [Transfer Station](http://maps.google.com/maps/place?cid=12853880385128682418) to bring back images of Wall-E. A circa April arrival of baby #2 our urban 2bd 1bth is getting a major overhaul in terms of how we use the space. So what do you do with the stuff? That old couch or mattress that won't sell on Craigslist? Or those pairs of pants that might work if you lose 80lbs? This requires planning and staying on task over multiple days, something that neither of us are always apply to our non-digital lives with ease.
+
+### The philosophy ###
+Instead of approaching our home as a college dorm, where all donations are welcome, we are approaching our entire home as living breathing space. A place that needs to function and improve our quality of life first and foremost. We do not preserve the past here, or put saving a buck over the day-to-day health and happiness of our family. Our rule of thumb on any unnecessary items has become if we move to Israel would we pay to put this on a boat?
+
+What does this look like? Aggressively sorting through the backlog of crap, discussions about gifts and where to put what we do keep, along with giving up on half-hearted crafts and outdated projects. Some interesting questions have arisen like where do you get rid of a broken printer? Or those piles of Ikea cardboard that will in no way fit in the recycling bin you share with your neighbors?
+
+### The breakdown ###
+The solution many _many_ trips to [IKEA](http://ikea.com/us/en), the [Transfer Station](http://maps.google.com/maps/place?cid=12853880385128682418), and one big online scheduled pickup by [Salvation Army Truck](http://www.satruck.org/donate-goods). (To cut down on the [IKEA](http://ikea.com/us/en) divorce rate _always_ be Zen and well fed before entering the display floor or warehouse, and don't be in a hurry.)
+
+That old mattress, the two space hogging couches, an old dresser, and some msc items all go to [Salvation Army Truck](http://www.satruck.org/donate-goods). And that printer is not recyclable, you have to pay $28 as part of trash load to dump it at the [Transfer Station](http://maps.google.com/maps/place?cid=12853880385128682418), although your $28 bucks does include up to 360lbs so grab whatever else you need to dump that is too broken for the [Salvation Army Truck](http://www.satruck.org/donate-goods) unless you can cram it into your trash bin. However all that cardboard and that old-TV is recyclable at the Transfer Station, along with that laptop that ironically almost ate the Wall-E DVD.
+
+### Are we done yet? ###
+Hardly, it's the smaller stuff that's tedious, unsorted bills, unused decor items, old toys and clothes from Nilit. So no we're not done yet, it's going to be several months before we make it through everything. Am I hopeful? For once yes, my nightmares of dying a hoarder are slowly fading and for once I at least know where to take things in my life instead of just stuffing it away and going back to coding. As they say "knowing is half the battle"... of course it's what you do with that knowledge over time that counts. We'll see what happens in 2012.
+
+
+
