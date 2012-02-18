@@ -2,8 +2,7 @@
 layout: post
 title: "Where does it all go?"
 date: 2012-02-17 14:12:31 -0800
-tags: renewal
-      recycle
+tags:
 ---
 Stuff. Moutains of it broken, smelly, with Seagulls circling to boot. Nothing like a trip to the [Transfer Station](http://maps.google.com/maps/place?cid=12853880385128682418) to bring back images of Wall-E. A circa April arrival of baby #2 our urban 2bd 1bth is getting a major overhaul in terms of how we use the space. So what do you do with the stuff? That old couch or mattress that won't sell on Craigslist? Or those pairs of pants that might work if you lose 80lbs? This requires planning and staying on task over multiple days, something that neither of us are always apply to our non-digital lives with ease.
 
