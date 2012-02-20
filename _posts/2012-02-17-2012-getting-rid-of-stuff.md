@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Where does it all go?"
+title: "2012: Getting Rid of Stuff"
 date: 2012-02-17 14:12:31 -0800
 tags:
 ---
