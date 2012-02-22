@@ -4,4 +4,4 @@ You are allowed to:
 1. Remove rake task
 2. Add existing rake tasks
 To add existing rake tasks automatically delete this file and reload the project.
---><RakeGroup description="" fullCmd="" taksId="rake"><RakeTask description="Build site with Jekyll" fullCmd="build" taksId="build" /><RakeTask description="create new post or bit" fullCmd="new" taksId="new" /><RakeTask description="Build and deploy" fullCmd="publish" taksId="publish" /><RakeTask description="Build and start server with --auto" fullCmd="server" taksId="server" /><RakeTask description="" fullCmd="default" taksId="default" /></RakeGroup></Settings>
+--><RakeGroup description="" fullCmd="" taksId="rake"><RakeTask description="Build site with Jekyll" fullCmd="build" taksId="build" /><RakeTask description="create new post or bit" fullCmd="new" taksId="new" /><RakeTask description="Build and start server with --auto" fullCmd="server" taksId="server" /><RakeTask description="" fullCmd="default" taksId="default" /></RakeGroup></Settings>

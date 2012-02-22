@@ -77,7 +77,7 @@ img.left {
 
 img.right {
   float: right;
-  margin: 0 0 1em 1em;
+  margin: 1em 0 1em 1em;
 }
 
 body > header {
